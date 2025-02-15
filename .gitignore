@@ -1,0 +1,17 @@
+# Unity-specific ignores
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+.vs/
+.DS_Store
+.idea/
+.vscode/
+*.apk
+
+Assets/CartoonTracksPack1/Track1/Textures/road.psd
+Assets/CartoonTracksPack1/Track1/Textures/road_normal.png
+Assets/CartoonTracksPack1/Track1/Textures/garages.psd
